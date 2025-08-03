@@ -1,5 +1,7 @@
 # Nutriplan-Personalized-Nutrition-and-Diet-Planning-Using-AI
 NutriPlan is a web-based application that uses Al and the Nutritionix database to offer personalized dietary recommendations. Users input their goals and preferences, and the system provides food suggestions and nutritional analysis. Key features include food logging, real-time calorie and nutrient tracking, and Al-driven recommendations tailored to individual needs, simplifying the process of managing nutrition.
+## Project Architecture
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/bd2b13e4-7929-4437-bb57-a697dca0470d" />
 
 Installation Guide
 
